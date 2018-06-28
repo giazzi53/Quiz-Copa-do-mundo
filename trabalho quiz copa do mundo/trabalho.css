@@ -1,0 +1,157 @@
+h1{
+	font-size: 35px;
+	font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+}
+
+.perguntas{
+	font-size: 20px;
+	font-family: Verdana;
+	border: 1px solid black;
+	width: 50%;
+	text-align: center;
+	padding: 10px;
+	position: relative;
+	left:25%;
+	background: linear-gradient(-180deg, #BCC5CE 0%, #929EAD 98%), radial-gradient(at top left, rgba(255,255,255,0.30) 0%, rgba(0,0,0,0.30) 100%);
+ 	background-blend-mode: screen;
+ 	margin-bottom: 0px;
+}
+
+body{
+	font-size: 20px;
+	text-align: center;
+	background-image: linear-gradient(to top, #c4c5c7 0%, #dcdddf 52%, #ebebeb 100%);
+}
+
+header{
+	border-radius: 20px;
+	background-image: linear-gradient(to top, #0fd850 0%, #f9f047 100%);
+}
+
+h1{
+	padding: 20px;
+	text-align: center;
+}
+
+footer p{
+	float: right;
+	margin-right: 10px;
+}
+
+.button{
+	font-size: 23px;
+	padding: 10px;
+}
+
+#curiosidades{
+	font-size: 23px;
+	padding: 10px;
+	margin-left: 90px;
+}
+
+.play{
+	font-size: 35px;
+	padding: 20px;
+	position: relative;
+	left: 40%;	
+	top: -230px;
+
+}
+
+#img1{
+	width: 300px;
+	position: relative;
+	left: -190px;
+	top: -10px;
+	border: 1px solid black;
+}
+
+#img2{
+	width: 280px;
+	position: relative;
+	left: 390px;
+	border: 1px solid black;
+}
+
+#img3{
+	width: 300px;
+	position: relative;
+	left: -780px;
+	margin-bottom: 300px;
+	border: 1px solid black;
+}
+
+#jules{
+	width: 130px;
+	position: relative;
+	top: -265px;
+	border: 1px solid black;
+	left: -130px;
+}
+
+.errado{
+	width: 40px;
+	position: relative;
+	left: 400px;
+	top: -50px;
+	display: none;
+}
+
+.errado4{
+	width: 40px;
+	position: relative;
+	left: 400px;
+	top: -60px;
+	display: none;	
+}
+
+.correto{
+	width: 50px;
+	position: relative;
+	left: 400px;
+	top: -50px;
+	display: none;
+}
+
+.correto4{
+	width: 50px;
+	position: relative;
+	left: 400px;
+	top: -60px;
+	display: none;
+}
+
+.verde{
+	width: 30px;
+	position: relative;
+	left: -42px;
+	top: 7px;
+	margin-right: -29px;
+	margin-top: -12px;
+	display: none;
+}
+
+.verde4{
+	width: 30px;
+	position: relative;
+	left: -42px;
+	top: 7px;
+	margin-right: -29px;
+	margin-top: -12px;
+	display: none;
+}
+
+#inicial{
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	font-size: 23px;
+	padding: 10px;
+}
+
+
+
+
+
+
+
